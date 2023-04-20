@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
             dm.enqueue(request);
             Toast.makeText(getApplicationContext(), "Downloading File", Toast.LENGTH_LONG).show();
         });
-        mWebView.loadUrl("https://logistic.sitemiyap.com.tr/ai-chat"); //Replace The Link Here
+        mWebView.loadUrl("https://logistic.sitemiyap.com.tr/ai-templates"); //Replace The Link Here
     }
     private static class HelloWebViewClient extends WebViewClient
     {
