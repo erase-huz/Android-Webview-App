@@ -1,4 +1,4 @@
-package com.webview.application.kazan;
+package com.webview.application;
 
 import android.app.Activity;
 import android.app.ActivityManager;
