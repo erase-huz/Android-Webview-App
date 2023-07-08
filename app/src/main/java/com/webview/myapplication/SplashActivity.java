@@ -1,4 +1,4 @@
-package com.company.yapara.kazan;
+package com.webview.application.kazan;
 
 import android.app.Activity;
 import android.app.ActivityManager;
