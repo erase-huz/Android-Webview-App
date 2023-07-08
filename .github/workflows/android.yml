@@ -2,9 +2,9 @@ name: Android CI
 
 on:
   push:
-    branches: [ "Splash Branch" ]
+    branches: [ "splash-branch" ]
   pull_request:
-    branches: [ "Splash Branch" ]
+    branches: [ "splash-branch" ]
 
 jobs:
   build:
