@@ -1,4 +1,4 @@
-package com.webview.application;
+package com.webview.myapplication;
 
 import android.app.Activity;
 import android.app.ActivityManager;
