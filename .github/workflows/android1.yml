@@ -3,9 +3,9 @@ name: Android CI
 
 on:
   push:
-    branches: [ "icon-+-splash" ]
+    branches: [ "iconsplash" ]
   pull_request:
-    branches: [ "icon-+-splash" ]
+    branches: [ "iconsplash" ]
 
 jobs:
   build:
