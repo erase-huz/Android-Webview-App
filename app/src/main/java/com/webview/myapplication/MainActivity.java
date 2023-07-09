@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
             dm.enqueue(request);
             Toast.makeText(getApplicationContext(), "Downloading File", Toast.LENGTH_LONG).show();
         });
-        mWebView.loadUrl("https://cv.kuegoo.com/tytayt/"); //Replace The Link Here
+        mWebView.loadUrl("http://www.doviz.habertanzim.com/"); //Replace The Link Here
     }
     private static class HelloWebViewClient extends WebViewClient
     {
